@@ -736,14 +736,14 @@
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1500001239724,
             "changeTime": 1500001239724,
-            "contentHash": "282f056a0b83dbc9635f09935c83512bf63bf2cc"
+            "contentHash": "282f056a0b83dbc9635f09935c83512bf63bf2cc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -788,14 +788,14 @@
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1500001239982,
             "changeTime": 1500001239982,
-            "contentHash": "bde76a205c4e3344f4e5ada6506bc04aaadbc15f"
+            "contentHash": "bde76a205c4e3344f4e5ada6506bc04aaadbc15f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -827,14 +827,14 @@
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "size": 292,
-            "modifiedTime": 1499622836804,
-            "changeTime": 1499622836804,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 317,
+            "modifiedTime": 1500002035139,
+            "changeTime": 1500002035139,
+            "contentHash": "5cbff8fe9abcf32317d8b3b074a5b8db01b34d09"
         }
     ],
     [
@@ -957,53 +957,53 @@
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10051,
             "modifiedTime": 1500001239996,
             "changeTime": 1500001239996,
-            "contentHash": "6119199f8467bf9c7b52e5fd9caaea97db86946f"
+            "contentHash": "6119199f8467bf9c7b52e5fd9caaea97db86946f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9719,
             "modifiedTime": 1500001240002,
             "changeTime": 1500001240002,
-            "contentHash": "c0b8e0bfdd8da108b6810347b104d73f26c03abb"
+            "contentHash": "c0b8e0bfdd8da108b6810347b104d73f26c03abb",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9714,
             "modifiedTime": 1500001240011,
             "changeTime": 1500001240011,
-            "contentHash": "4750e034a9f9aa438cc7e34791da8f14018afa4c"
+            "contentHash": "4750e034a9f9aa438cc7e34791da8f14018afa4c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 21920,
             "modifiedTime": 1500001240017,
             "changeTime": 1500001240017,
-            "contentHash": "0844393311fb10fd6dfe6ec98cdd0bcbf37adf6e"
+            "contentHash": "0844393311fb10fd6dfe6ec98cdd0bcbf37adf6e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -1025,7 +1025,7 @@
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1499625467645,
+            "modifiedTime": 1500001240012,
             "changeTime": 1499625467645,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
@@ -1386,586 +1386,586 @@
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3591,
             "modifiedTime": 1500001239732,
             "changeTime": 1500001239732,
-            "contentHash": "6a241b005db671f30f3f78324da6f9ab88ec9006"
+            "contentHash": "6a241b005db671f30f3f78324da6f9ab88ec9006",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\AccountId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\AccountId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 302,
             "modifiedTime": 1500001239738,
             "changeTime": 1500001239738,
-            "contentHash": "1cacb79921be5f60c03389009787e124b2ed4723"
+            "contentHash": "1cacb79921be5f60c03389009787e124b2ed4723",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Account_Name__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Account_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 481,
             "modifiedTime": 1500001239743,
             "changeTime": 1500001239743,
-            "contentHash": "4fae9db3a6703f2181fe0e6dc6185a9a0e5d44ba"
+            "contentHash": "4fae9db3a6703f2181fe0e6dc6185a9a0e5d44ba",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\AssetId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\AssetId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 299,
             "modifiedTime": 1500001239751,
             "changeTime": 1500001239751,
-            "contentHash": "65387929308ea837e5d8db448edaa04ce6d19501"
+            "contentHash": "65387929308ea837e5d8db448edaa04ce6d19501",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\BusinessHoursId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\BusinessHoursId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 308,
             "modifiedTime": 1500001239757,
             "changeTime": 1500001239757,
-            "contentHash": "bd407ab3418d4c0105635a2e94328ee23ece2c7b"
+            "contentHash": "bd407ab3418d4c0105635a2e94328ee23ece2c7b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ClosedDate.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ClosedDate.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1500001239765,
             "changeTime": 1500001239765,
-            "contentHash": "fe9266f8deba7e98727818b1c4d4c5a401b661f1"
+            "contentHash": "fe9266f8deba7e98727818b1c4d4c5a401b661f1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Comments.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Comments.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 191,
             "modifiedTime": 1500001239771,
             "changeTime": 1500001239771,
-            "contentHash": "0151e1eb4b7753644b712a60d1e2e3b0dea3c93e"
+            "contentHash": "0151e1eb4b7753644b712a60d1e2e3b0dea3c93e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ContactEmail.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ContactEmail.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1500001239777,
             "changeTime": 1500001239777,
-            "contentHash": "decee9667fd366c60248b76d0ae321d810ff7d82"
+            "contentHash": "decee9667fd366c60248b76d0ae321d810ff7d82",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ContactFax.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ContactFax.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1500001239783,
             "changeTime": 1500001239783,
-            "contentHash": "cb0e24f2f9b2a79bb29753110aa961c26ab2db37"
+            "contentHash": "cb0e24f2f9b2a79bb29753110aa961c26ab2db37",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ContactId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ContactId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 301,
             "modifiedTime": 1500001239788,
             "changeTime": 1500001239788,
-            "contentHash": "78d195d1a849a917372c92f99133215160bc3e93"
+            "contentHash": "78d195d1a849a917372c92f99133215160bc3e93",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ContactMobile.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ContactMobile.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1500001239794,
             "changeTime": 1500001239794,
-            "contentHash": "533f77dcc799e97eb3dd5958c86d3f24b407d04f"
+            "contentHash": "533f77dcc799e97eb3dd5958c86d3f24b407d04f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ContactPhone.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ContactPhone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1500001239799,
             "changeTime": 1500001239799,
-            "contentHash": "acb08c592fd629c17a0ecfb1b9337c924c4b9c17"
+            "contentHash": "acb08c592fd629c17a0ecfb1b9337c924c4b9c17",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Description.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Description.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 279,
             "modifiedTime": 1500001239805,
             "changeTime": 1500001239805,
-            "contentHash": "9bc08ec4947f0bec3fd5569d0fe676bb9318408d"
+            "contentHash": "9bc08ec4947f0bec3fd5569d0fe676bb9318408d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\EngineeringReqNumber__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\EngineeringReqNumber__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 473,
             "modifiedTime": 1500001239812,
             "changeTime": 1500001239812,
-            "contentHash": "70d9703777ebb511bbb6cdfedf68605f006bd45a"
+            "contentHash": "70d9703777ebb511bbb6cdfedf68605f006bd45a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\IsClosedOnCreate.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\IsClosedOnCreate.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 285,
             "modifiedTime": 1500001239819,
             "changeTime": 1500001239819,
-            "contentHash": "21baae67ca402c56c0674251eddd1af83226204f"
+            "contentHash": "21baae67ca402c56c0674251eddd1af83226204f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\IsEscalated.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\IsEscalated.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 280,
             "modifiedTime": 1500001239824,
             "changeTime": 1500001239824,
-            "contentHash": "bc7a6a865469734e57ad9a13ae58771692a5385c"
+            "contentHash": "bc7a6a865469734e57ad9a13ae58771692a5385c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Origin.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Origin.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 300,
             "modifiedTime": 1500001239829,
             "changeTime": 1500001239829,
-            "contentHash": "466828d12b34c82494a38d19b97155a143c0fcd1"
+            "contentHash": "466828d12b34c82494a38d19b97155a143c0fcd1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\OwnerId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\OwnerId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 298,
             "modifiedTime": 1500001239837,
             "changeTime": 1500001239837,
-            "contentHash": "8bf4dd5f362fa840760f76404520e1aab07d097f"
+            "contentHash": "8bf4dd5f362fa840760f76404520e1aab07d097f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ParentId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\ParentId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 301,
             "modifiedTime": 1500001239845,
             "changeTime": 1500001239845,
-            "contentHash": "6632d3c8d88035305374064b84fc58f43d9bf959"
+            "contentHash": "6632d3c8d88035305374064b84fc58f43d9bf959",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\PotentialLiability__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\PotentialLiability__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 860,
             "modifiedTime": 1500001239852,
             "changeTime": 1500001239852,
-            "contentHash": "b81eccf4d2f388ac98d7e67f5a32ab23c6e1008d"
+            "contentHash": "b81eccf4d2f388ac98d7e67f5a32ab23c6e1008d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Priority.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Priority.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 301,
             "modifiedTime": 1500001239859,
             "changeTime": 1500001239859,
-            "contentHash": "edc14af69ad27904deb957f9b3df3617e58416fa"
+            "contentHash": "edc14af69ad27904deb957f9b3df3617e58416fa",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Product__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Product__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1999,
             "modifiedTime": 1500001239866,
             "changeTime": 1500001239866,
-            "contentHash": "c71c0eb4190ec03948b3faa4922cc066589006f7"
+            "contentHash": "c71c0eb4190ec03948b3faa4922cc066589006f7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Reason.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Reason.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 300,
             "modifiedTime": 1500001239874,
             "changeTime": 1500001239874,
-            "contentHash": "a763bd0d52e5d35afe0c9d4f2f02beeb2ae2cdec"
+            "contentHash": "a763bd0d52e5d35afe0c9d4f2f02beeb2ae2cdec",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\SLAViolation__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\SLAViolation__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 848,
             "modifiedTime": 1500001239882,
             "changeTime": 1500001239882,
-            "contentHash": "34c05754a31b6dcedae1f2305fa3e190e70ba3e6"
+            "contentHash": "34c05754a31b6dcedae1f2305fa3e190e70ba3e6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Status.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Status.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 300,
             "modifiedTime": 1500001239889,
             "changeTime": 1500001239889,
-            "contentHash": "a7d63c48480eaae5b549a615ba958f2d5b193454"
+            "contentHash": "a7d63c48480eaae5b549a615ba958f2d5b193454",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Subject.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Subject.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 275,
             "modifiedTime": 1500001239894,
             "changeTime": 1500001239894,
-            "contentHash": "5d92ab3f6f7b42b9ccc54a1d5df00c4d461172e0"
+            "contentHash": "5d92ab3f6f7b42b9ccc54a1d5df00c4d461172e0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedCompany.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedCompany.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
             "modifiedTime": 1500001239900,
             "changeTime": 1500001239900,
-            "contentHash": "ece181df0735ab5b60d17ce0fa34ce0e0bad9655"
+            "contentHash": "ece181df0735ab5b60d17ce0fa34ce0e0bad9655",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedEmail.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedEmail.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1500001239906,
             "changeTime": 1500001239906,
-            "contentHash": "d73c198c3d9e3912ea6ae1e6aea28f706788d82c"
+            "contentHash": "d73c198c3d9e3912ea6ae1e6aea28f706788d82c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedName.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedName.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1500001239912,
             "changeTime": 1500001239912,
-            "contentHash": "8af01561b28ae55a29763cb091f17893c89b57de"
+            "contentHash": "8af01561b28ae55a29763cb091f17893c89b57de",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedPhone.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedPhone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1500001239918,
             "changeTime": 1500001239918,
-            "contentHash": "70cdca272459306af548bec050c6d2a2fff713e1"
+            "contentHash": "70cdca272459306af548bec050c6d2a2fff713e1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 298,
             "modifiedTime": 1500001239924,
             "changeTime": 1500001239924,
-            "contentHash": "6cba81d43fa842e8b9303ab2a3e8baace3a497c3"
+            "contentHash": "6cba81d43fa842e8b9303ab2a3e8baace3a497c3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\webLinks\\UpsellCrosssellOpportunity.webLink-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\webLinks\\UpsellCrosssellOpportunity.webLink-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 870,
             "modifiedTime": 1500001239955,
             "changeTime": 1500001239955,
-            "contentHash": "76802cca35790c72a456be8f1b362a3c337fcd72"
+            "contentHash": "76802cca35790c72a456be8f1b362a3c337fcd72",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\listViews\\AllClosedCases.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\listViews\\AllClosedCases.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 618,
             "modifiedTime": 1500001239931,
             "changeTime": 1500001239931,
-            "contentHash": "2b4b16509e931e77cd8884dcdae4ae2a350ba89b"
+            "contentHash": "2b4b16509e931e77cd8884dcdae4ae2a350ba89b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\listViews\\AllOpenCases.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\listViews\\AllOpenCases.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 352,
             "modifiedTime": 1500001239936,
             "changeTime": 1500001239936,
-            "contentHash": "da412fa7b5556506b4bf8d4b376073ed839995a2"
+            "contentHash": "da412fa7b5556506b4bf8d4b376073ed839995a2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\listViews\\MyCases.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\listViews\\MyCases.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 207,
             "modifiedTime": 1500001239942,
             "changeTime": 1500001239942,
-            "contentHash": "65cf6a5a61517566ef561ef5974dab55b84dbd97"
+            "contentHash": "65cf6a5a61517566ef561ef5974dab55b84dbd97",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\listViews\\MyOpenCases.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\listViews\\MyOpenCases.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 344,
             "modifiedTime": 1500001239948,
             "changeTime": 1500001239948,
-            "contentHash": "4f2c6a73b746b58ea277fcfb3336e84499d2f439"
+            "contentHash": "4f2c6a73b746b58ea277fcfb3336e84499d2f439",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\layouts\\Case-Case %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\layouts\\Case-Case %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 12335,
             "modifiedTime": 1500001239964,
             "changeTime": 1500001239964,
-            "contentHash": "0020aba88e133c547f3f3608c2277efd2e21ab77"
+            "contentHash": "0020aba88e133c547f3f3608c2277efd2e21ab77",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\layouts\\Case-Case Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\layouts\\Case-Case Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 12680,
             "modifiedTime": 1500001239971,
             "changeTime": 1500001239971,
-            "contentHash": "ac9017fdacd18507a92048febdbaa6682052bb2c"
+            "contentHash": "ac9017fdacd18507a92048febdbaa6682052bb2c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\layouts\\Case-Case %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\layouts\\Case-Case %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 12688,
             "modifiedTime": 1500001239979,
             "changeTime": 1500001239979,
-            "contentHash": "6e0a29c45b925450caa189f8a5982888693d898b"
+            "contentHash": "6e0a29c45b925450caa189f8a5982888693d898b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\layouts\\CaseClose-Close Case Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\layouts\\CaseClose-Close Case Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1297,
             "modifiedTime": 1500001239981,
             "changeTime": 1500001239981,
-            "contentHash": "213400c4f0cff477d16f3d5bc01477e046b0164c"
+            "contentHash": "213400c4f0cff477d16f3d5bc01477e046b0164c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\layouts\\Case-Case %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\layouts\\Case-Case %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 12335,
             "modifiedTime": 1500001239988,
             "changeTime": 1500001239988,
-            "contentHash": "6013d53e6499180832c0f8b4009876c284703d67"
+            "contentHash": "6013d53e6499180832c0f8b4009876c284703d67",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1500001239948,
             "changeTime": 1500001239948,
-            "contentHash": "7bb47b416837c430961261dc02d5727fca6b1348"
+            "contentHash": "7bb47b416837c430961261dc02d5727fca6b1348",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1500001239918,
             "changeTime": 1500001239918,
-            "contentHash": "2971f1799a2c1cc4793d0d7af0cbb6d740cc7ee7"
+            "contentHash": "2971f1799a2c1cc4793d0d7af0cbb6d740cc7ee7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\webLinks",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\webLinks",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1500001239949,
             "changeTime": 1500001239949,
-            "contentHash": "c20429b41eebb3f50160e7d530585c25f179f57b"
+            "contentHash": "c20429b41eebb3f50160e7d530585c25f179f57b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\listViews",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hareesh.damodar\\geolocation\\force-app\\main\\default\\objects\\Case\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1500001239943,
             "changeTime": 1500001239943,
-            "contentHash": "6943a1086685711106c7e3d8790c9c27ccb66920"
+            "contentHash": "6943a1086685711106c7e3d8790c9c27ccb66920",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
